@@ -1,0 +1,41 @@
+body
+{
+  color:lightcyan;
+  background:black;
+}
+span
+{
+  font-size: 30px;
+}
+
+#result_gesture_name ,#result_gesture_name1  
+{
+  color:aqua;
+}
+.gesture_name
+{
+  font-size: 40px;
+}
+.gesture
+{
+  font-size:48px;
+}
+label{
+  font-size:15px;
+  color:lavender;
+  padding:6px;
+  border-radius: 10px;
+  background-color:midnightblue;
+}
+h3{
+  letter-spacing:10px;
+}
+#camera,#Result{
+  border:2px  solid cyan;
+  width:350px;
+  height:300px;
+}
+#result_gesture_name,#result_gesture_name1{
+  color:cyan;
+
+}
